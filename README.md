@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋👩‍💻💻, I'm Nicol✨</h2>
+<h2 align="center">Hi 👋👩‍💻💻, I'm Paola✨</h2>
 
 ### My Github Stats 💻〽:
 
@@ -74,8 +74,7 @@
 </p>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="color:#d3d3d3">
 <p align="center"><strong>Connect With Us ✉📞 :</strong></p>
 <div align="center" align=center> 
 <a href="mailto:glenypaola.7@email.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
