@@ -51,7 +51,7 @@
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=pythont&logoColor=black">
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 </p>
 <h4>Frontend Development</h4>
