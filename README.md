@@ -40,6 +40,8 @@
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/office/45/000000/figma.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
        <a href="https://vscode.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" height="45"/></a>
+   <a href="https://www.python.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/python.png" style="max-width: 100%;"> </a>  
+    <a href="https://www.java.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/f2e55992ca80a5e95192891e0a5027243789561975b6bceb31437b3f6ad1d1da/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="max-width: 100%;"> </a>
 </p>
 
   <hr style="color:#d3d3d3">
