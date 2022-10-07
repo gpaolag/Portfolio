@@ -1,12 +1,14 @@
 <h2 align="center">Hi 👋👩‍💻💻, I'm Paola✨</h2>
 
 ### 💫 About Me:
-   👩🏻‍💻 Soy bachiller en ingeniería de sistemas, con especialidad en desarrollo Front-end.
-   🤓 Mi mayor pasion es el enfoque de la tecnologia e investigacion unidas.🦾
-   💁🏻‍♀️ Como desarrolladora Front-end, me gusta desarrollar proyectos que sean soluciones para otras personas 📲.
-   💛 Mi objetivo es tener un aprendizaje continuo de nuevas tecnologías que me permitan tener un mejor perfil
-      en tecnologia.
-   📫Contáctame: <a href="mailto:glenypaola.7@email.com"> glenypaola.7@gmail.com </a>
+   👩🏻‍💻 Soy bachiller en ingeniería de sistemas, con especialidad en desarrollo Front-end.<br>
+   🤓 Mi mayor pasion es el enfoque de la tecnologia e investigacion unidas.🦾<br>
+   💁🏻‍♀️ Como desarrolladora Front-end, me gusta desarrollar proyectos que sean soluciones para otras personas 📲.<br>
+   💛 Mi objetivo es tener un aprendizaje continuo de nuevas tecnologías que me permitan tener un mejor perfil<br>
+      en tecnologia.<br>
+   📫Contáctame: <a href="mailto:glenypaola.7@email.com"> glenypaola.7@gmail.com </a><br>
+   
+   <h3 >Portafolio: <a href="https://paolagamarradev.netlify.app/"> AQUI </a></h3>
 
 ### My Github Stats 💻〽:
 
