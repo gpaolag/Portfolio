@@ -8,7 +8,7 @@
       en tecnologia.<br>
    📫Contáctame: <a href="mailto:glenypaola.7@email.com"> glenypaola.7@gmail.com </a><br>
    
-   <h3 >Portafolio: <a href="https://paolagamarradev.netlify.app/"> AQUI </a></h3>
+   <h3 >Portafolio: <a href="https://paolagamarradev.netlify.app/"> Aqui </a></h3>
 
 ### My Github Stats 💻〽:
 
