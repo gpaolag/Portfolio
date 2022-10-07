@@ -1,11 +1,12 @@
 <h2 align="center">Hi 👋👩‍💻💻, I'm Paola✨</h2>
 
-👩🏻‍💻 Soy bachiller en ingeniería de sistemas, con especialidad en desarrollo Front-end.
-🤓 Mi mayor pasion es el enfoque de la tecnologia e investigacion unidas.🦾
-💁🏻‍♀️ Como desarrolladora Front-end, me gusta desarrollar proyectos que sean soluciones para otras personas 📲.
-💛 Mi objetivo es tener un aprendizaje continuo de nuevas tecnologías que me permitan tener un mejor perfil
-   en tecnologia.
-📫Contáctame: <a href="mailto:glenypaola.7@email.com"> glenypaola.7@gmail.com </a>
+### 💫 About Me:
+   👩🏻‍💻 Soy bachiller en ingeniería de sistemas, con especialidad en desarrollo Front-end.
+   🤓 Mi mayor pasion es el enfoque de la tecnologia e investigacion unidas.🦾
+   💁🏻‍♀️ Como desarrolladora Front-end, me gusta desarrollar proyectos que sean soluciones para otras personas 📲.
+   💛 Mi objetivo es tener un aprendizaje continuo de nuevas tecnologías que me permitan tener un mejor perfil
+      en tecnologia.
+   📫Contáctame: <a href="mailto:glenypaola.7@email.com"> glenypaola.7@gmail.com </a>
 
 ### My Github Stats 💻〽:
 
